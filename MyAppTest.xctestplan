@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "FD505410-AE58-461A-AB61-25F60E50C9E2",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Metaquotes Test.xcodeproj",
+      "identifier" : "35411E7C2AF38BDB00BDF0D4",
+      "name" : "Metaquotes Test"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MyTestApp.xcodeproj",
+        "identifier" : "35411E9A2AF38D6900BDF0D4",
+        "name" : "MyTestAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
